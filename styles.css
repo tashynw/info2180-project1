@@ -87,7 +87,7 @@ header .container nav ul li a:hover {
 }
 
 .card img {
-    width: 375px;
+    width: 350px;
     height: 300px;
 }
 
@@ -172,7 +172,7 @@ article h3 {
     background-color: #48BB78;
     color: white;
     padding-top: 50px;
-    padding-bottom: 100px;
+    padding-bottom: 90px;
 }
 
 .newsletter p {
@@ -182,6 +182,10 @@ article h3 {
 
 .newsletter .container {
     text-align: center;
+}
+
+.message {
+    margin-top: 15px;
 }
 
 #email {
